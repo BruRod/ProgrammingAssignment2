@@ -1,5 +1,5 @@
 ## Caching the inverse of a Matrix
-## We assume the Matrix is inversible
+## We assume the given Matrix is inversible
 
 
 ## Build a Matrix Object "cacheMatrix" (as a List) that lets you store a Matrix 
